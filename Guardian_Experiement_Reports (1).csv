@@ -1,0 +1,62 @@
+"Username","Date","Time","Input Prompt","Output of Model A","Output of  Model B","Expected Output In % (Model A)","Expected Output In % (Model B)","PromptHistory#1 Baseline_Minutes","PromptHistory#1 ExtraTimeRequiredFor_ModelA_in_Days","PromptHistory#1 ExtraTimeRequiredFor_ModelA_in_Hours","PromptHistory#1 ExtraTimeRequiredFor_ModelA_in_Mins","PromptHistory#1 ExtraTimeRequiredFor_ModelB_in_Days","PromptHistory#1 ExtraTimeRequiredFor_ModelB_in_Hours","PromptHistory#1 ExtraTimeRequiredFor_ModelB_in_Mins","PromptHistory#1 What_Are_All_Not_UpTo_Your_StandardsIn_TheOutput_For_ModelA","PromptHistory#1 What_Are_All_Not_Up_To_Your_Standards_In_The_Output_For_ModelB","PromptHistory#1 Task_Number","PromptHistory#1 InputPrompt","PromptHistory#1 ModelAOutput","PromptHistory#1 ModelBOutput","PromptHistory#1 On_What_All_Do_You_Need_To_Optimize_The_Outputs_For_ModelA","PromptHistory#1 On_What_All_Do_You_Need_To_Optimize_The_Outputs_For_ModelB","PromptHistory#1 ModelA_Score","PromptHistory#1 ModelB_Score","PromptHistory#1 Baseline_Days","PromptHistory#1 Models_Feedback","PromptHistory#1 Baseline_Hours","PromptHistory#2 Baseline_Minutes","PromptHistory#2 ExtraTimeRequiredFor_ModelA_in_Days","PromptHistory#2 ExtraTimeRequiredFor_ModelA_in_Hours","PromptHistory#2 ExtraTimeRequiredFor_ModelA_in_Mins","PromptHistory#2 ExtraTimeRequiredFor_ModelB_in_Days","PromptHistory#2 ExtraTimeRequiredFor_ModelB_in_Hours","PromptHistory#2 ExtraTimeRequiredFor_ModelB_in_Mins","PromptHistory#2 What_Are_All_Not_UpTo_Your_StandardsIn_TheOutput_For_ModelA","PromptHistory#2 What_Are_All_Not_Up_To_Your_Standards_In_The_Output_For_ModelB","PromptHistory#2 Task_Number","PromptHistory#2 InputPrompt","PromptHistory#2 ModelAOutput","PromptHistory#2 ModelBOutput","PromptHistory#2 On_What_All_Do_You_Need_To_Optimize_The_Outputs_For_ModelA","PromptHistory#2 On_What_All_Do_You_Need_To_Optimize_The_Outputs_For_ModelB","PromptHistory#2 ModelA_Score","PromptHistory#2 ModelB_Score","PromptHistory#2 Baseline_Days","PromptHistory#2 Models_Feedback","PromptHistory#2 Baseline_Hours","User Experience Feedback A","User Experience Feedback B","Model Feedback","Feedback_Rating","Feedback_Comments","Feedback_Overall_Comments"
+"Test1","2024.03.05","14:28:03","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"Test1","2024.03.05","14:31:50","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"Test1","2024.03.05","14:34:10","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"Test1","2024.03.05","14:42:28","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"Test1","2024.03.05","14:42:36","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"Test1","2024.03.05","14:44:04","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"Test1","2024.03.05","14:44:17","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"Test1","2024.03.05","14:48:41","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"Test1","2024.03.05","14:51:24","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"Test1","2024.03.05","14:51:42","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"Test1","2024.03.05","15:00:46","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"Test1","2024.03.05","15:02:28","Generate a visibility testcase scenario for: User with PAS Access, and has PAS accounts Users who have BOB PAS access and have PAS accounts: should not get an error if API call is made for them and should see their cards displayed in Producer Workspace If user is registered with PAS, then all PAS account cards should be visible in CRM Contacts ""Find a user who has PAS access. Log in as that user to see if they can access BOB or not. This user should have some accounts in BOB PAS and should see all of their BOB accounts as cards in CRM Contacts that belong to BOB PAS (Investments cards) Needs to be seen if we get any API errors with this, ESQA to make a note if any error User: as in the file Tab Test Scenarios (ESQA)","""
+Profile: User with PAS Access, and has PAS accounts
+
+Test Scenario: Verify that users with PAS access can see their cards displayed in Producer Workspace.
+
+Test Steps:
+
+1. Log in to the system as a user with PAS access.
+2. Navigate to the Producer Workspace.
+3. Verify that the user's cards are displayed.
+4. Verify that the user's cards belong to BOB PAS (Investments cards).
+5. Verify that the user does not have any API errors.
+6. Verify that ESQA makes a note of any error.
+
+Expected Result:
+
+* The user with PAS access should see their cards displayed in Producer Workspace.
+* The user's cards should belong to BOB PAS (Investments cards).
+* The user should not have any API errors.
+* ESQA should make a note of any error.
+
+Note: This scenario assumes that the user has some accounts in BOB PAS.""","{""completion"": "" Here is a draft test case scenario based on the details provided:
+
+Title: Verify PAS accounts are visible for users with PAS access
+
+Preconditions:
+- Identify test user that has been granted PAS access 
+- Test user has associated PAS accounts
+
+Steps:
+1. Log in to CRM as test user with PAS access
+2. Navigate to Contacts page
+3. Verify PAS account cards are displayed for the test user's PAS accounts
+4. Note any errors or missing account cards
+5. Log in to Producer Workspace as test user 
+6. Verify no errors occur when accessing Producer Workspace
+7. Verify test user can access PAS accounts in Producer Workspace
+
+Expected Results:
+- No errors occur when test user accesses PAS accounts via API calls
+- All of test user's PAS account cards are displayed in CRM Contacts
+
+Postconditions:
+- Document any errors encountered or missing account cards
+- Report results to dev team if issues found
+
+Let me know if you would like me to modify or expand this draft test case. I'm happy to incorporate any additional details or requirements you have."", ""stop_reason"": ""stop_sequence"", ""stop"": ""
+
+Human:""}","30","70","0","1","0","0","1","0","0","Can improve the details","Can improve","Task 1","Generate a visibility testcase scenario for: User with PAS Access, and has PAS accounts Users who have BOB PAS access and have PAS accounts: should not get an error if API call is made for them and should see their cards displayed in Producer Workspace If user is registered with PAS, then all PAS account cards should be visible in CRM Contacts ""Find a user who has PAS access. Log in as that user to see if they can access BOB or not. This user should have some accounts in BOB PAS and should see all of their BOB accounts as cards in CRM Contacts that belong to BOB PAS (Investments cards) Needs to be seen if we get any API errors with this, ESQA to make a note if any error User: as in the file Tab Test Scenarios (ESQA)","","","Good ","better ","40","80","","Model B is Better","0","0","1","0","0","1","0","0","Can improve on  details","Can improve","Task 1","Generate a visibility testcase scenario for: User with PAS Access, and has PAS accounts Users who have BOB PAS access and have PAS accounts: should not get an error if API call is made for them and should see their cards displayed in Producer Workspace If user is registered with PAS, then all PAS account cards should be visible in CRM Contacts ""Find a user who has PAS access. Log in as that user to see if they can access BOB or not. This user should have some accounts in BOB PAS and should see all of their BOB accounts as cards in CRM Contacts that belong to BOB PAS (Investments cards) Needs to be seen if we get any API errors with this, ESQA to make a note if any error User: as in the file Tab Test Scenarios (ESQA)","","","Good ","Better ","30","70","","Model A is Better","0","Can improve","Can improve on  details","Model A is Better","5","The Process was Self-Explanatory and Easy to Understand","Thank you"
+"Test1","2024.03.05","15:01:36","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""

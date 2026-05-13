@@ -1,0 +1,554 @@
+Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project lead id,Project description,Project url,Priority,Comments,Assignee,Assignee Id,Reporter,Reporter Id,Creator,Creator Id,Created,Updated,Last Viewed,Resolved,Fix versions,Due date,Votes,Description,Environment,Watchers,Watchers,Watchers,Watchers,Watchers Id,Watchers Id,Watchers Id,Watchers Id,Original estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Outward issue link (Blocks),Outward issue link (Blocks),Outward issue link (Cloners),Inward issue link (Defect),Inward issue link (Relates),Inward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Tests),Attachment,Attachment,Attachment,Attachment,Attachment,Attachment,Attachment,Attachment,Attachment,Attachment,Attachment,Attachment,Attachment,Attachment,Attachment,Attachment,Attachment,Attachment,Attachment,Attachment,Attachment,Attachment,Custom field ( Actual UAT Date),Custom field (2020 Firm Vendor $),Custom field (2020 ROM $),Custom field (2020 Retained Hours),Custom field (2021 Firm Vendor $),Custom field (2021 ROM $),Custom field (2021 Retained Hours),Custom field (2022 Firm Vendor $),Custom field (2022 ROM $),Custom field (2022 Retained Hours),Custom field (ADM),Custom field (ADM - fixed field),Custom field (ADO_Activity),Custom field (AOM Linked),Custom field (APM Category),Custom field (ASP),Custom field (Acceptance Criteria),Custom field (Activated By),Custom field (Activated Date),Custom field (Activity),Custom field (Actual Delivery Date),Custom field (Actual Deployment Date),Custom field (Actual End Date),Custom field (Actual Hours),Custom field (Actual end),Custom field (Actual start),Custom field (Added By),Custom field (Admitted or Non),Custom field (Affected services),Custom field (Alignment),Custom field (Alignment with Zurich Business Goals or Objectives),Custom field (Annual Benefit $),Custom field (App Assessment Link),Custom field (App Id),Custom field (App Name),Custom field (Application),Custom field (Application),Custom field (Application),Custom field (Application DM),Custom field (Application Frontend URL),Custom field (Application/Web Linux Servers (full stack)),Custom field (Application/Web Windows Servers (full stack)),Custom field (Approval Date),Custom field (Approved date),Custom field (Area),Custom field (Assigned Lead),Custom field (Assigned Lead Name),Custom field (Automated),Custom field (BA Assignee),Custom field (BA Estimated Hours),Custom field (BAU),Custom field (BU),Defect Category,Resolution ETA,,,,,Custom field (Failed Controls Under Exception Count),Custom field (Feature),Custom field (File Extension),Custom field (File Name),Custom field (File Size),Custom field (Finish),Custom field (First Day of Business),Custom field (Follow-Up Owner),Custom field (Force Rank),Custom field (Forecasted Delivery Date),Custom field (Form),Custom field (FormNumber),Custom field (FormsGroup),Custom field (Functional Sizing),Custom field (Goals),"Custom field (How many PDF’s links created, refreshed, or archived?)",Custom field (IO),Custom field (IT Owner Mail),Custom field (IT Sponsor),Custom field (Impacted Component/Workflow list),Custom field (Impl Team),Custom field (Implementation Cost),Custom field (Implementer),Custom field (Imported By),Custom field (Incident),Custom field (Include Parent Permissions),Custom field (Infrastructure),Custom field (Initial Dev Sizing),Custom field (Install Completed On),Custom field (Install Date),Custom field (Internal Version),Custom field (Investment Category),Custom field (Issue Created),Custom field (Issue ID),Custom field (Issue Summary),Custom field (Issue Type Secondary),Custom field (Issue Updated),Custom field (Issue color),Custom field (Issue_Priority),Custom field (Iteration),Custom field (JIRA Requirement KEY),Custom field (Jira Project Id),Custom field (Justification),Custom field (Latest Comment),Custom field (Line of Business),Custom field (Linked Items),Custom field (Links to Materials),Custom field (Location/Network Zone),Custom field (Lock Reason),Custom field (Lock Time),Custom field (Locked By),Custom field (Locked forms),Custom field (Maintenace Type),Custom field (Meets ADA requirements),Custom field (Migration Group / Wave),Custom field (Migration Information),Custom field (Migration Status),Custom field (Multi Line text),Custom field (Need By Date),Custom field (Needs Decom),Custom field (Needs Performance Testing),Custom field (Network Ports),Custom field (Next Status Date),Custom field (Notes),Custom field (Observations),Custom field (On Hold Reason),Custom field (On behalf of BU/Function),Custom field (Open forms),Custom field (Orig ALM ID),Custom field (Original Estimate),Custom field (Other Resources),Custom field (Other WO),Custom field (Owner(s) text),Custom field (Owning Org / BU),Custom field (PLP Numbers),Custom field (PRODUCT),Custom field (PROGRAM),Custom field (Parent Id),Custom field (Parent Type),Custom field (Patching Actionable Vulnerability Deferred Count),Custom field (Patching Actionable Vulnerability Open Count),Custom field (Patching Dev Patched Servers CR Count),Custom field (Patching Dev Patched Servers Count),Custom field (Patching Prod Patched Linux Servers Count),Custom field (Patching Prod Patched Servers CR Count),Custom field (Patching Prod Patched Windows Servers Count),Custom field (Patching QA Patched Servers CR Count),Custom field (Patching QA Patched Servers Count),Custom field (Percent Complete),Custom field (Planned Sprint),Custom field (Planned Start Date),Custom field (Pre-requisites),Custom field (Previous Status),Custom field (Primary Business Unit),Custom field (Primary Data Location),Custom field (Primary Product Board),Custom field (Primary Product Impacted),Custom field (Product #),Custom field (ProductName),Custom field (Production Checkout),Custom field (Programs Application),Custom field (Project Cost $),Custom field (Project Description),Custom field (Project End),Custom field (Project Name),Custom field (Project Resources),Custom field (Project Start),Custom field (Project Status),Custom field (Project overview key),Custom field (Project overview status),Custom field (Project type),Custom field (Published),Custom field (Published link),Custom field (QA ASSIGNEE),Custom field (QA DEADLINE),Custom field (QA Owner),Custom field (QA Release),Custom field (QC ID),Custom field (Qualitative Description of Problem to Solve & Benefits),Custom field (RAG Status),Custom field (ROM (hours)),Custom field (Rank),Custom field (Rating/Pricing),Custom field (Re-estimated story points),Custom field (Reason),Custom field (Recurrence Range End Date),Custom field (Recurrence Range Start Date),Custom field (Reference #),Custom field (Reference Number),Custom field (Reference Ticket Number),Custom field (Release),Custom field (Release Note),Custom field (Release Notes),Custom field (Release Notes Details),Custom field (Release Type),Custom field (Release notes needed),Custom field (Remaining Estimate),Custom field (Remining work),Custom field (Repo Steps),Custom field (Reported Date),Custom field (Req Actual Hours),Custom field (Req. Due Date),Custom field (Request Date),Custom field (Request Type),Custom field (Request language),Custom field (Request participants),Custom field (Requester),Custom field (Requestor),Custom field (Requestor Email),Custom field (Requirements),Custom field (Resolved Date),Custom field (Responsible Role),Custom field (Retained Hours),Custom field (Revision),Custom field (Revision Rounds),Custom field (Risk Impact),Custom field (Risk Impact Count),Custom field (Risk Level),Custom field (Risk Mitigation Steps),Custom field (Risk Priority),Custom field (Risk Probability),Custom field (Risk Probability Count),Custom field (Risk Severity),Custom field (Risk Severity Count),Custom field (Roll Forward Reason),Custom field (Rules),Custom field (Run Rate Savings $),Custom field (Rush Request),Custom field (Rush Request Type),Custom field (SAP Application),Custom field (SBU),Custom field (SIT Due Date),Custom field (SME Name),Custom field (SNOW Incident),Custom field (SNOW Ticket Number),Custom field (SNReference),Custom field (SNReference),Custom field (SOC 1 Related?),Custom field (SOC 2 Related?),Custom field (SOW Approved),Satisfaction rating,Custom field (Satisfaction date),Custom field (Savings Description),Custom field (Savings End Date),Custom field (Savings Lead),Custom field (Savings Start Date),Custom field (Savings Year),Custom field (Schedule Type),Custom field (Scrum Lead),Custom field (Secondary Business Unit),Custom field (Secondary Product Board),Custom field (Security Toolkits Attempted Servers Count),Custom field (Security Toolkits Fixed Servers Count),Custom field (Security Toolkits to Remediate Servers Count),Custom field (Sent room and phone numbers to NetCom team),Custom field (Sentiment),Custom field (Service Category),Custom field (Service Delivery Sub-Category),Custom field (Service Impact),Custom field (Service Now Ticket),Custom field (Service Tower),Custom field (Severity),Custom field (Signoff Guidelines),Custom field (Site Walk),Custom field (Sizing By),Custom field (Sizing Comments),Custom field (Sponsor),Custom field (Sponsor Approved),Sprint,Custom field (Start),Custom field (Start - Time & date),Custom field (Start Date and Time),Custom field (Start Time),Custom field (Start Time HH (CST/CDT)),Custom field (Start Time MM),Custom field (Start Time MM),Custom field (Start date),Custom field (Story Points),Custom field (Story Set #),Custom field (Story point estimate),Custom field (Strategic Status),Custom field (Sub Sequence #),Custom field (Submitted forms),Custom field (Submitted to Coupa),Custom field (Suppression),Custom field (System Info),Custom field (System(s) Affected),Custom field (T-Shirt Size),Custom field (Target),Custom field (Target Date),Custom field (Target Fix Delivery Date),Custom field (Target Release),Custom field (Target Time HH),Custom field (Target Time MM),Custom field (Target end),Custom field (Target start),Custom field (Tasks Linked),Custom field (Team),Custom field (Team),Custom field (Team Name),Custom field (TeamName),Custom field (Test Estimated Hours),Custom field (Test Phase),Custom field (Ticket Number),Custom field (Time Criticality),Custom field (TimeZone),Custom field (Title),Custom field (Total Estimate Cost),Custom field (Total Estimate Cost ($)),Custom field (Total Firm Cost),Custom field (Total forms),Custom field (Transitions),Custom field (Triage),Custom field (Type),Custom field (Type of Product Work),Custom field (UAT Sign Off),Custom field (UAT Target Date),Custom field (UC Engine Scanned),Custom field (UGSU Feature),Custom field (URL),Custom field (URL Preview link),Custom field (URL/PDF link(s) to be updated if applicable),Custom field (Updated By),Custom field (Updates),Custom field (Use Case / Benefit),Custom field (Value Area),Custom field (Vendor),Custom field (Vendor - 1 Name),Custom field (Vendor - 1 Work Order #),Custom field (Vendor - 1 Work Order Cost),Custom field (Vendor - 1 Work Order Cost ($)),Custom field (Vendor - 2 Name),Custom field (Vendor - 2 Work Order #),Custom field (Vendor - 2 Work Order Cost),Custom field (Vendor - 2 Work Order Cost ($)),Custom field (Vendor - 3 Name),Custom field (Vendor - 3 Work Order #),Custom field (Vendor - 3 Work Order Cost),Custom field (Vendor - 3 Work Order Cost ($)),Custom field (Vendor FIRM),Custom field (Vendor ROM),Custom field (Vendor Ticket),Custom field (Vendor Ticket Number),Custom field (Visual Name),Custom field (Vulnerability),Custom field (Watchers List),Custom field (Web Project Complexity Levels),Custom field (Week Ending Date),Custom field (Weighted Score),Custom field (Weighted Score),Custom field (What are your new web page(s) requirements),Custom field (What are your web update requirements?),Custom field (Who is the requester),Custom field (Work Orders),Custom field (Workflow Target Date),Custom field (YB_Environment),Custom field (Year 1 Savings $),Custom field (Year 2 Savings $),Custom field (Zurich Capability Framework),Custom field (Zurich Retained Hours),Custom field ([CHART] Date of First Response),Custom field ([CHART] Time in Status),Custom field (customfield_10285),Custom field (disableSyntheticMonitorExecution),Custom field (dynamic field),Custom field (​​​​​​​BA DEADLINE),Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Status Category,Status Category Changed
+"Policy Details - Limits, exclusions & definitions tab - Functional and UI Issues",LARP-93003,7265114,Observation,In Development,LARP,LA&H Portal & Retail Platform,software,Ramesh Gopal,6283bc8bca7d7f006900a3c5,Updated 4/8/2022,,High,,Bagam Sathvik,63e9cbe7333d0e2ec16e0f19,Shikha Kumari,712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c,Shikha Kumari,712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c,26-09-2024 10:01,26-09-2024 23:33,27-09-2024 00:10,,,,0,"Expected: For Exclusions & Limitations, all the exclusions will be printed. If the checkbox for an exclusion is selected in the ‘exclusions & limitations’ tab of the New Quote, then as ‘Yes’ should be displayed in the ‘Excluded’ column in Policy details and definition will be displayed along with an option of *‘see more’.*
+
+Actual: *‘see more’* option is not coming.
+
+!image-20240926-150346.png|width=451,height=208,alt=""image-20240926-150346.png""!
+
+!image-20240926-150336.png|width=451,height=220,alt=""image-20240926-150336.png""!
+
+!image-20240926-150432.png|width=1050,height=528,alt=""image-20240926-150432.png""!
+
+Issue 2: Policy details section is not aligned as per Figma.
+
+!image-20240926-150536.png|width=451,height=208,alt=""image-20240926-150536.png""!
+
+!image-20240926-150607.png|width=1046,height=743,alt=""image-20240926-150607.png""!",,Shikha Kumari,,,,712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c,,,,,,,,,,,,LARP-89163,,,,,,,,,,,26/Sep/24 10:06 AM;712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c;image-20240926-150336.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1064397,26/Sep/24 10:06 AM;712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c;image-20240926-150346.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1064394,26/Sep/24 10:06 AM;712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c;image-20240926-150432.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1064395,26/Sep/24 10:06 AM;712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c;image-20240926-150536.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1064393,26/Sep/24 10:06 AM;712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c;image-20240926-150607.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1064396,,,,,,,,,,,,,,,,,,,,,,,,,,,,Application Delivery,Core Platforms Modernization,,,,,,,,,,,,,,,,,,,,,,,,,SAP,,,,,,,,,,,,,,,,UI ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|i00e47:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,,,,,,,,,,,,,,,,,,,,,,,02. Significant,,,,,,,BTA II - Sprint 12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BTA 2,,,,SIT,,,,,,,,,,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,,,,,,,,,,,,In Progress,26-09-2024 23:33
+System is Storing Both Benefit Level Flat Amount and %of Principle sum Amount When User Changing Them Alternately.,LARP-92948,7264035,Observation,In Development,LARP,LA&H Portal & Retail Platform,software,Ramesh Gopal,6283bc8bca7d7f006900a3c5,Updated 4/8/2022,,High,,Nirmal Sintha Abraham J,712020:2393b71c-ca95-4f00-b925-05d5c693f468,Shivram Jagtap,712020:dde5144a-b255-41a8-a960-3f22c4a1b40f,Shivram Jagtap,712020:dde5144a-b255-41a8-a960-3f22c4a1b40f,26-09-2024 05:14,26-09-2024 23:32,26-09-2024 23:31,,,,0,"# Login to Innoveo application.
+# Enter all the details and navigate to Benefit Details screen.
+# Enter Benefit amount - Flat amount.
+# Enter Benefit amount - % of principle sum amount.
+# Change to Flat amount and verify if older value of Flat amount is reflecting.
+# Create a policy and verify if the premium is matching with rater aggregator.
+
+!image-20240926-101159.png|width=83.33333333333334%,alt=""image-20240926-101159.png""!
+
+!image-20240926-101250.png|width=83.33333333333334%,alt=""image-20240926-101250.png""!
+
+Expected Result: Re-selecting Flat amount option System should make older value of Flat amount to blank or zero.
+
+Actual result: Re-selecting and alternately switching between Flat amount and %of principle sum option System reflecting older value of Flat amount and Vice versa.",,Shivram Jagtap,,,,712020:dde5144a-b255-41a8-a960-3f22c4a1b40f,,,,,,,,,,,,,,,,,,,,,,LARP-84849,26/Sep/24 5:14 AM;712020:dde5144a-b255-41a8-a960-3f22c4a1b40f;image-20240926-101159.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1064031,26/Sep/24 5:14 AM;712020:dde5144a-b255-41a8-a960-3f22c4a1b40f;image-20240926-101250.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1064032,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Application Delivery,Core Platforms Modernization,,,,,,,,,,,,,,,,,,,,,,,,,SAP,,,,,,,,,,,,,,,,Rating Config,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|hzxjvq:zzzzr,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,,,,,,,,,,,,,,,,,,,,,,,02. Significant,,,,,,,BTA II - Sprint 12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BTA 2,,,,,,,,,,,,,,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,,,,,,,,,,,,In Progress,26-09-2024 23:32
+Sprint 12- dev3 - Quote Confirmation Page - UI Issues,LARP-92941,7263880,Observation,In Development,LARP,LA&H Portal & Retail Platform,software,Ramesh Gopal,6283bc8bca7d7f006900a3c5,Updated 4/8/2022,,High,,Komirishetti Kokila,712020:7462e3dd-72f8-4a80-8386-720f97e1bcd4,Shikha Kumari,712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c,Shikha Kumari,712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c,26-09-2024 03:29,26-09-2024 23:34,26-09-2024 23:34,,,,0,"Issue 1: Underwriter and close buttons are overlapping.
+
+!image-20240926-083010.png|width=451,height=200,alt=""image-20240926-083010.png""!
+
+Issue 2: Save button is added in application, not matching with figma.
+
+!image-20240926-112335.png|width=451,height=223,alt=""image-20240926-112335.png""!
+
+!image-20240926-112311.png|width=1068,height=743,alt=""image-20240926-112311.png""!",,Shikha Kumari,,,,712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c,,,,,,,,,,,,,,,,,,,,,,,26/Sep/24 3:30 AM;712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c;image-20240926-083010.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1063834,26/Sep/24 6:24 AM;712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c;image-20240926-112311.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1064155,26/Sep/24 6:24 AM;712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c;image-20240926-112335.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1064154,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Application Delivery,Core Platforms Modernization,,,,,,,,,,,,,,,,,,,,,,,,,SAP,,,,,,,,,,,,,,,,UI ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|hzxjvq:zzzzi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,,,,,,,,,,,,,,,,,,,,,,,02. Significant,,,,,,,BTA II - Sprint 12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BTA 2,,,,SIT,,,,,,,,,,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,,,,,,,,,,,,In Progress,26-09-2024 23:34
+Hazard Selection Pop-up: Edit/View Icons - GA - H7 - Functional and UI Issues,LARP-92588,7261513,Observation,In Development,LARP,LA&H Portal & Retail Platform,software,Ramesh Gopal,6283bc8bca7d7f006900a3c5,Updated 4/8/2022,,High,,Dhruv Bipin Kulkarni,712020:aaa4cc96-1e2f-412b-9d31-f375dec03d88,Shikha Kumari,712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c,Shikha Kumari,712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c,25-09-2024 02:05,26-09-2024 23:40,26-09-2024 23:41,,,,0,"Issue 1: Save button is not enabled even after selecting the checkbox
+
+Issue 2: As per user story the text box will be always disabled  but in application it is editable and not in grey color.
+
+!image-20240925-071024.png|width=1591,height=510,alt=""image-20240925-071024.png""!
+
+Issue 3: for the 'Note Applicable' text box scroll bar is coming, that is not aligned and unable to scroll.
+
+!image-20240925-071202.png|width=1593,height=643,alt=""image-20240925-071202.png""!
+
+Issue 4: Hazard definition 'Civilian Scheduled Air Carrier' is missing in application
+
+!image-20240925-071632.png|width=1595,height=773,alt=""image-20240925-071632.png""!
+
+Issue 5: 'Definition' label is not there above the grey text box
+
+!image-20240925-071744.png|width=1588,height=763,alt=""image-20240925-071744.png""!",,Shikha Kumari,,,,712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c,,,,,,,,,,,,LARP-85867,,,,,,,,,,,25/Sep/24 2:18 AM;712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c;image-20240925-071024.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1062686,25/Sep/24 2:18 AM;712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c;image-20240925-071202.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1062689,25/Sep/24 2:18 AM;712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c;image-20240925-071632.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1062687,25/Sep/24 2:18 AM;712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c;image-20240925-071744.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1062688,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Application Delivery,Core Platforms Modernization,,,,,,,,,,,,,,,,,,,,,,,,,SAP,,,,,,,,,,,,,,,,UI ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|hzxjvq:zzzv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,,,,,,,,,,,,,,,,,,,,,,,02. Significant,,,,,,,BTA II - Sprint 12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BTA 2,,,,SIT,,,,,,,,,,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,,,,,,,,,,,,In Progress,26-09-2024 23:40
+System Is Generating $0 Premium for Out of Country Travell Medical Expense Benefit.,LARP-92163,7259359,Observation,In Development,LARP,LA&H Portal & Retail Platform,software,Ramesh Gopal,6283bc8bca7d7f006900a3c5,Updated 4/8/2022,,High,need to work as part of sprint 13,Bagam Sathvik,63e9cbe7333d0e2ec16e0f19,Shivram Jagtap,712020:dde5144a-b255-41a8-a960-3f22c4a1b40f,Shivram Jagtap,712020:dde5144a-b255-41a8-a960-3f22c4a1b40f,23-09-2024 08:39,26-09-2024 07:47,26-09-2024 23:22,,,,0,"# Login to Innoveo application.
+# Enter all the details and create a policy With Out of Country Travell Medical Expense Benefit.
+# Navigate to premium Overview screen.
+# Verify and Validate the Premium with Rater aggregator.
+
+Expected Result: System should generate valid premium for Out of Country Travell Medical Expense Benefit.
+
+Actual Result: System is generating $0 premium for Out of Country Travell Medical Expense Benefit.",,jayaraj Selvaraj,Nirmal Sintha Abraham J,Shivram Jagtap,,712020:21143738-1822-429d-8263-67c503d22969,712020:2393b71c-ca95-4f00-b925-05d5c693f468,712020:dde5144a-b255-41a8-a960-3f22c4a1b40f,,,,,,,,,,,,,,,,,,,,LARP-84849,23/Sep/24 9:33 AM;712020:2393b71c-ca95-4f00-b925-05d5c693f468;image-20240923-143315.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1061479,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Application Delivery,Core Platforms Modernization,,,,,,,,,,,,,,,,,,,,,,,,,SAP,,,,,,,,,,,,,,,,requierment,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|hzxjra:v,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,,,,,,,,,,,,,,,,,,,,,,,02. Significant,,,,,,,BTA II - Sprint 12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BTA 2,,,,,,,,,,,,,,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,33:42.3,,,FALSE,,,"23/Sep/24 9:33 AM;712020:2393b71c-ca95-4f00-b925-05d5c693f468;[~accountid:712020:21143738-1822-429d-8263-67c503d22969] [~accountid:712020:38e09dd0-17b7-426c-8f11-81f8e4c23bd0] [~accountid:712020:dde5144a-b255-41a8-a960-3f22c4a1b40f] for this particular scenario with this benefit, we are seeing #value error in rater itself
+
+
+!image-20240923-143315.png|width=1165,height=501,alt=""image-20240923-143315.png""!
+
+We need to discuss this with Andrew.","24/Sep/24 2:45 AM;712020:2393b71c-ca95-4f00-b925-05d5c693f468;As per the discussion with andrew, it is found that this benefit OOC has some dependency with the input in AME benefit.
+
+[~accountid:712020:21143738-1822-429d-8263-67c503d22969] we don’t have that field in UI for, so it would be helpful if we have a story to track this requirement","25/Sep/24 3:40 PM;712020:21143738-1822-429d-8263-67c503d22969;[~accountid:712020:dde5144a-b255-41a8-a960-3f22c4a1b40f]  & [~accountid:63e9cbe7333d0e2ec16e0f19]  - New Story LARP--92754 is planned for Sprint 13, once this dependency is coded, please assign to Shivaram.",,,,,,,,In Progress,23-09-2024 09:28
+"H1 POP UP  UI is not proper, all the UI is Overlapped ",LARP-91727,7258801,Observation,In Development,LARP,LA&H Portal & Retail Platform,software,Ramesh Gopal,6283bc8bca7d7f006900a3c5,Updated 4/8/2022,,High,,Komirishetti Kokila,712020:7462e3dd-72f8-4a80-8386-720f97e1bcd4,Roopavati vati,712020:386db91a-1825-4526-bfd0-a05923f21f6d,Roopavati vati,712020:386db91a-1825-4526-bfd0-a05923f21f6d,23-09-2024 06:08,26-09-2024 07:47,27-09-2024 00:10,,LAH Portal R2.3.3,,0,"H1 POP UP  UI is not proper, all the UI is Overlapped.
+
+→ Login to application.
+
+→ Navigate for H1 pop up, all the UI is overlapping it should be Aligned to test and identified the fields.
+
+Issue 1 
+
+!UI_H1-20240923-105406.png|width=1753,height=895,alt=""UI_H1-20240923-105406.png""!
+
+Issue 2 
+
+
+
+!Ui_ISSUE3-20240923-110125.png|width=849,height=702,alt=""Ui_ISSUE3-20240923-110125.png""!",,Komirishetti Kokila,Shikha Kumari,,,712020:7462e3dd-72f8-4a80-8386-720f97e1bcd4,712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c,,,,,,,,,,,,,,,,,,,,,,23/Sep/24 6:08 AM;712020:386db91a-1825-4526-bfd0-a05923f21f6d;UI_H1-20240923-105406.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1061258,23/Sep/24 6:06 AM;712020:386db91a-1825-4526-bfd0-a05923f21f6d;UI_Issue_2_H1.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1061256,23/Sep/24 6:09 AM;712020:386db91a-1825-4526-bfd0-a05923f21f6d;Ui_ISSUE3-20240923-110125.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1061262,23/Sep/24 6:06 AM;712020:386db91a-1825-4526-bfd0-a05923f21f6d;Ui_ISSUE3.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1061257,25/Sep/24 7:00 AM;712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c;image-20240925-120034.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1063098,23/Sep/24 8:11 AM;712020:7462e3dd-72f8-4a80-8386-720f97e1bcd4;{6127E92B-E245-4CDC-B0E6-299A3CF5F1BF}-20240923-131102.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1061394,,,,,,,,,,,,,,,,,,,,,,,,,,,Application Delivery,Core Platforms Modernization,,,,,,,,,,,,,,,,,,,,,,,,,SAP,,,,,,,,,,,,,,,,UI ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|hzxjra:r,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,,,,,,,,,,,,,,,,,,,,,,,02. Significant,,,,,,,BTA II - Sprint 12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BTA 2,,,,SIT,,,,,,,,,,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11:42.6,,,FALSE,,,"23/Sep/24 8:11 AM;712020:7462e3dd-72f8-4a80-8386-720f97e1bcd4;This is fixed.
+
+
+
+!{6127E92B-E245-4CDC-B0E6-299A3CF5F1BF}-20240923-131102.png|width=841,height=603,alt=""{6127E92B-E245-4CDC-B0E6-299A3CF5F1BF}-20240923-131102.png""!","25/Sep/24 7:00 AM;712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c;In the Hazard Definition section view icon is not aligned, hence reopening.
+
+!image-20240925-120034.png|width=1596,height=769,alt=""image-20240925-120034.png""!",,,,,,,,,In Progress,25-09-2024 07:08
+Concurrent Update on Clicking of the War Risk check box ,LARP-91594,7258512,Observation,In Development,LARP,LA&H Portal & Retail Platform,software,Ramesh Gopal,6283bc8bca7d7f006900a3c5,Updated 4/8/2022,,High,Important,Bagam Sathvik,63e9cbe7333d0e2ec16e0f19,Roopavati vati,712020:386db91a-1825-4526-bfd0-a05923f21f6d,Roopavati vati,712020:386db91a-1825-4526-bfd0-a05923f21f6d,23-09-2024 01:46,26-09-2024 23:43,26-09-2024 23:43,,LAH Portal 3.4,,0,"Concurrent Update on Clicking of the War Risk check box.
+
+→ Navigate to the “War risk [U-BTA-252 A]“ checkbox its giving “Concurrent update“ pop up is displaying.
+
+
+
+!image-20240923-064624.png|width=906,height=505,alt=""image-20240923-064624.png""!",,Chandra Kumar,,,,63525b0176b91b62562ca2d3,,,,,,,,,,,,,,,,,,,,,,,23/Sep/24 1:46 AM;712020:386db91a-1825-4526-bfd0-a05923f21f6d;image-20240923-064624.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1060922,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Application Delivery,Core Platforms Modernization,,,,,,,,,,,,,,,,,,,,,,,,,SAP,,,,,,,,,,,,,,,,Product,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|hzxjvq:z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,,,,,,,,,,,,,,,,,,,,,,,02. Significant,,,,,,,BTA II - Sprint 12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BTA 2,,,,SIT,,,,,,,,,,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,42:55.3,,,FALSE,,,"26/Sep/24 11:42 PM;63525b0176b91b62562ca2d3;[~accountid:63e9cbe7333d0e2ec16e0f19] , [~accountid:712020:7462e3dd-72f8-4a80-8386-720f97e1bcd4]  [~accountid:63525b01fe5ff3752358ed97]  - pls look into this on top priority",,,,,,,,,,In Progress,26-09-2024 23:43
+Hazard Selection Pop-up: Edit/View Icons - GA - H10- Functional and UI Issue,LARP-91555,7258294,Observation,In Development,LARP,LA&H Portal & Retail Platform,software,Ramesh Gopal,6283bc8bca7d7f006900a3c5,Updated 4/8/2022,,High,,Dhruv Bipin Kulkarni,712020:aaa4cc96-1e2f-412b-9d31-f375dec03d88,Shikha Kumari,712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c,Shikha Kumari,712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c,22-09-2024 04:49,26-09-2024 23:44,26-09-2024 23:46,,,,0,"Issue 1:  As per user story *“The textbox is not in grey color”*
+
+!image-20240922-095125.png|width=1596,height=788,alt=""image-20240922-095125.png""!
+
+Issue 2: checkbox is missing for two field below the text box.
+
+!image-20240922-095739.png|width=1590,height=765,alt=""image-20240922-095739.png""!
+
+Issue 3: Content is not matching with the user story description for all definitions.
+
+
+
+!image-20240922-095912.png|width=1590,height=773,alt=""image-20240922-095912.png""!
+
+!image-20240922-100102.png|width=1201,height=623,alt=""image-20240922-100102.png""!",,Chandra Kumar,Shikha Kumari,,,63525b0176b91b62562ca2d3,712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c,,,,,,,,,,,LARP-85870,,,,,,,,,,,22/Sep/24 5:01 AM;712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c;image-20240922-095125.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1060824,22/Sep/24 5:01 AM;712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c;image-20240922-095739.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1060822,22/Sep/24 5:01 AM;712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c;image-20240922-095912.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1060825,22/Sep/24 5:01 AM;712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c;image-20240922-100102.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1060823,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Application Delivery,Core Platforms Modernization,,,,,,,,,,,,,,,,,,,,,,,,,SAP,,,,,,,,,,,,,,,,UI ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|hzxjvq:x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,,,,,,,,,,,,,,,,,,,,,,,02. Significant,,,,,,,BTA II - Sprint 12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BTA 2,,,,SIT,,,,,,,,,,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,44:15.1,,,FALSE,,,26/Sep/24 11:44 PM;63525b0176b91b62562ca2d3;[~accountid:712020:aaa4cc96-1e2f-412b-9d31-f375dec03d88] - pls address this today,,,,,,,,,,In Progress,26-09-2024 23:44
+Hazard Selection Pop-up: Edit/View Icons - GA - H9- Functional and UI Issue ,LARP-91553,7258292,Observation,In Development,LARP,LA&H Portal & Retail Platform,software,Ramesh Gopal,6283bc8bca7d7f006900a3c5,Updated 4/8/2022,,High,,Dhruv Bipin Kulkarni,712020:aaa4cc96-1e2f-412b-9d31-f375dec03d88,Shikha Kumari,712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c,Shikha Kumari,712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c,22-09-2024 03:35,26-09-2024 23:44,26-09-2024 23:45,,,,0,"Issue 1: As per user story *“The grey textbox will not have the label as ‘Definition’ for ‘Hazard Exclusion’ and ‘Hazard Limitation’. The label name will only be shown for ‘Hazard Definition’.“* but the label is not showing for 'Hazard Definition' as well.
+
+!image-20240922-083843.png|width=1598,height=785,alt=""image-20240922-083843.png""!
+
+Issue 2: *'Close' button is not properly aligned for all the fields.*
+
+!image-20240922-084035.png|width=1598,height=785,alt=""image-20240922-084035.png""!
+
+!image-20240922-084102.png|width=1595,height=750,alt=""image-20240922-084102.png""!
+
+Issue 3: There is more gap between fields label.
+
+!image-20240922-092200.png|width=1596,height=781,alt=""image-20240922-092200.png""!
+
+!image-20240922-092222.png|width=1593,height=751,alt=""image-20240922-092222.png""!
+
+Issue 4: As per user story *“The content will be same for both the icons, the only difference is in the buttons and the content in ‘view’ icons will always be in read-only mode.“* but for Edit Icon also content is read-only mode only it should be editable.
+
+!image-20240922-094841.png|width=1588,height=753,alt=""image-20240922-094841.png""!",,Chandra Kumar,Shikha Kumari,,,63525b0176b91b62562ca2d3,712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c,,,,,,,,,,,LARP-85869,,,,,,,,,,,22/Sep/24 3:38 AM;712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c;image-20240922-083843.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1060769,22/Sep/24 4:02 AM;712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c;image-20240922-084035.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1060779,22/Sep/24 4:02 AM;712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c;image-20240922-084102.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1060780,22/Sep/24 4:23 AM;712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c;image-20240922-092200.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1060797,22/Sep/24 4:23 AM;712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c;image-20240922-092222.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1060798,22/Sep/24 4:48 AM;712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c;image-20240922-094841.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1060821,,,,,,,,,,,,,,,,,,,,,,,,,,,Application Delivery,Core Platforms Modernization,,,,,,,,,,,,,,,,,,,,,,,,,SAP,,,,,,,,,,,,,,,,UI ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|hzxjvq:r,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,,,,,,,,,,,,,,,,,,,,,,,02. Significant,,,,,,,BTA II - Sprint 12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BTA 2,,,,SIT,,,,,,,,,,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,44:52.8,,,FALSE,,,26/Sep/24 11:44 PM;63525b0176b91b62562ca2d3;[~accountid:712020:aaa4cc96-1e2f-412b-9d31-f375dec03d88] - FYA,,,,,,,,,,In Progress,26-09-2024 23:44
+H4 Pop up Functional and UI issues ,LARP-91297,7257989,Observation,In Development,LARP,LA&H Portal & Retail Platform,software,Ramesh Gopal,6283bc8bca7d7f006900a3c5,Updated 4/8/2022,,High,,Sudheer Thulluri,712020:a623e872-f660-4700-b442-59c3fca10727,Roopavati vati,712020:386db91a-1825-4526-bfd0-a05923f21f6d,Roopavati vati,712020:386db91a-1825-4526-bfd0-a05923f21f6d,21-09-2024 07:34,26-09-2024 07:47,27-09-2024 00:10,,,,0,"Issue 1 : 
+
+# Expected : For ‘edit’ icons, there should be ‘Close’ and ‘Save’ buttons. Save button will only be enabled if user selects any checkbox, otherwise it will be disabled.                             ->Actual Result : Save buton not displaying on clicking of the Edit icon → its should fix in all Pop up screen.
+!image-20240921-122738.png|width=835,height=506,alt=""image-20240921-122738.png""!
+
+
+
+Issue 2 Spacing and alignment is not proper between the Label and Text.
+
+!Space_between_Number And TExt -20240921-101838.png|width=515,height=346,alt=""Space_between_Number And TExt -20240921-101838.png""!
+
+!image-20240921-123239.png|width=768,height=597,alt=""image-20240921-123239.png""!
+
+
+
+!Space_To_much-20240921-101607.png|width=736,height=480,alt=""Space_To_much-20240921-101607.png""!
+
+
+
+Issue 3: 
+
+Text Box displaying scroll bar for the Text, It should not display scroll bar.
+
+
+
+!image-20240921-123759.png|width=1396,height=732,alt=""image-20240921-123759.png""!
+
+Issue 4 : Space between numbering and Text is more, it should align properly. 
+
+!image-20240921-124107.png|width=1206,height=708,alt=""image-20240921-124107.png""!",,,,,,,,,,,,,,,,,,LARP-85864,,,,,,,,,,,21/Sep/24 7:34 AM;712020:386db91a-1825-4526-bfd0-a05923f21f6d;Space_To_much-20240921-101607.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1060611,21/Sep/24 7:34 AM;712020:386db91a-1825-4526-bfd0-a05923f21f6d;Space_between_Number And TExt -20240921-101838.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1060609,21/Sep/24 7:34 AM;712020:386db91a-1825-4526-bfd0-a05923f21f6d;image-20240921-122738.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1060610,21/Sep/24 7:34 AM;712020:386db91a-1825-4526-bfd0-a05923f21f6d;image-20240921-123239.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1060612,21/Sep/24 7:38 AM;712020:386db91a-1825-4526-bfd0-a05923f21f6d;image-20240921-123759.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1060613,21/Sep/24 7:41 AM;712020:386db91a-1825-4526-bfd0-a05923f21f6d;image-20240921-124107.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1060614,,,,,,,,,,,,,,,,,,,,,,,,,,,Application Delivery,Core Platforms Modernization,,,,,,,,,,,,,,,,,,,,,,,,,SAP,,,,,,,,,,,,,,,,UI ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|hzxjra:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,,,,,,,,,,,,,,,,,,,,,,,02. Significant,,,,,,,BTA II - Sprint 12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BTA 2,,,,SIT,,,,,,,,,,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,,,,,,,,,,,,In Progress,21-09-2024 10:18
+Forms_Issues in After School Benefit,LARP-91125,7257749,Observation,In Development,LARP,LA&H Portal & Retail Platform,software,Ramesh Gopal,6283bc8bca7d7f006900a3c5,Updated 4/8/2022,,High,,Brahmayya Nutalapati,712020:014524ec-082a-45c0-a5e3-f03f95b3504c,Reshma Gedela,712020:b315d41f-5571-416e-ad6c-bba88ea7186f,Reshma Gedela,712020:b315d41f-5571-416e-ad6c-bba88ea7186f,21-09-2024 04:03,27-09-2024 00:03,27-09-2024 00:08,,,,0,"# Login to BTA II application
+# In the benefit selection, select benefit - ‘After School Benefit’
+# Enter details for ‘After school benefit’ in the benefit details page
+# Generate the form 
+
+Policy number : BTAA000691
+
+Issue-1:  Even thought BTA-346-1 values are met, the corresponding section is not printing
+
+!image-20240921-090710.png|width=1326,height=334,alt=""image-20240921-090710.png""!
+
+UI:
+
+!image-20240921-090812.png|width=878,height=526,alt=""image-20240921-090812.png""!
+
+Annotated form:
+
+!image-20240921-090747.png|width=1082,height=680,alt=""image-20240921-090747.png""!
+
+Issue-2: Even though BTA -1739, Covered is selected, *‘Accidental Dismemberment’ is not printing*
+
+!image-20240921-102053.png|width=1258,height=514,alt=""image-20240921-102053.png""!
+
+UI:
+
+!image-20240921-102439.png|width=468,height=285,alt=""image-20240921-102439.png""!
+
+Forms:
+
+!image-20240921-102521.png|width=1066,height=801,alt=""image-20240921-102521.png""!
+
+Issue-3: 346-1 corresponding section values is not printing in here 
+
+Annotated Form:
+
+!image-20240921-102802.png|width=1438,height=406,alt=""image-20240921-102802.png""!
+
+PDF:
+
+!image-20240921-102949.png|width=1081,height=734,alt=""image-20240921-102949.png""!
+
+Issue-4: Dynamic values is not printing here
+
+!image-20240921-110045.png|width=1005,height=741,alt=""image-20240921-110045.png""!
+
+Issue-5: Dynamic values not printing here for rule : BTA-1736
+
+!image-20240921-110552.png|width=994,height=825,alt=""image-20240921-110552.png""!
+
+!image-20240921-110626.png|width=468,height=285,alt=""image-20240921-110626.png""!
+
+Issue-6: Dynamic value is not printing here
+
+!image-20240921-111029.png|width=994,height=825,alt=""image-20240921-111029.png""!
+
+Issue-7: BTA-347 values not printing
+
+!image-20240921-111512.png|width=991,height=680,alt=""image-20240921-111512.png""!
+
+Issue-8: Space is not matching
+
+!image-20240921-111642.png|width=1029,height=726,alt=""image-20240921-111642.png""!",,Brahmayya Nutalapati,Reshma Gedela,Subramanyam Bhuvaneswari,,712020:014524ec-082a-45c0-a5e3-f03f95b3504c,712020:b315d41f-5571-416e-ad6c-bba88ea7186f,712020:6dd41a74-77fb-4616-821e-a6a0cf199b6b,,,,,,,,,,,,,,,,LARP-88720,,,,,26/Sep/24 10:44 PM;712020:b315d41f-5571-416e-ad6c-bba88ea7186f;After school care issues.docx;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1064659,21/Sep/24 4:15 AM;712020:b315d41f-5571-416e-ad6c-bba88ea7186f;image-20240921-090710.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1060588,21/Sep/24 4:15 AM;712020:b315d41f-5571-416e-ad6c-bba88ea7186f;image-20240921-090747.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1060586,21/Sep/24 4:15 AM;712020:b315d41f-5571-416e-ad6c-bba88ea7186f;image-20240921-090812.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1060587,21/Sep/24 6:18 AM;712020:b315d41f-5571-416e-ad6c-bba88ea7186f;image-20240921-102053.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1060604,21/Sep/24 6:18 AM;712020:b315d41f-5571-416e-ad6c-bba88ea7186f;image-20240921-102439.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1060603,21/Sep/24 6:18 AM;712020:b315d41f-5571-416e-ad6c-bba88ea7186f;image-20240921-102521.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1060600,21/Sep/24 6:18 AM;712020:b315d41f-5571-416e-ad6c-bba88ea7186f;image-20240921-102802.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1060595,21/Sep/24 6:18 AM;712020:b315d41f-5571-416e-ad6c-bba88ea7186f;image-20240921-102949.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1060599,21/Sep/24 6:18 AM;712020:b315d41f-5571-416e-ad6c-bba88ea7186f;image-20240921-110045.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1060598,21/Sep/24 6:18 AM;712020:b315d41f-5571-416e-ad6c-bba88ea7186f;image-20240921-110552.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1060602,21/Sep/24 6:18 AM;712020:b315d41f-5571-416e-ad6c-bba88ea7186f;image-20240921-110626.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1060596,21/Sep/24 6:18 AM;712020:b315d41f-5571-416e-ad6c-bba88ea7186f;image-20240921-111029.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1060597,21/Sep/24 6:18 AM;712020:b315d41f-5571-416e-ad6c-bba88ea7186f;image-20240921-111512.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1060601,21/Sep/24 6:18 AM;712020:b315d41f-5571-416e-ad6c-bba88ea7186f;image-20240921-111642.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1060605,25/Sep/24 9:46 PM;712020:6dd41a74-77fb-4616-821e-a6a0cf199b6b;image-20240926-024310.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1063654,25/Sep/24 9:46 PM;712020:6dd41a74-77fb-4616-821e-a6a0cf199b6b;image-20240926-024337.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1063653,25/Sep/24 9:46 PM;712020:6dd41a74-77fb-4616-821e-a6a0cf199b6b;image-20240926-024418.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1063651,25/Sep/24 9:46 PM;712020:6dd41a74-77fb-4616-821e-a6a0cf199b6b;image-20240926-024548.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1063652,,,,,,,,,,,,,,Application Delivery,Core Platforms Modernization,,,,,,,,,,,,,,,,,,,,,,,,,SAP,,,,,,,,,,,,,,,,Forms - Documaker,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|hzxk52:zzzzzzzzzzzzzzzzzzr,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,,,,,,,,,,,,,,,,,,,,,,,03. Moderate,,,,,,,BTA II - Sprint 12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BTA 2,,,,SIT,,,,,,,,,,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,20:15.2,,,FALSE,,,24/Sep/24 3:20 AM;712020:014524ec-082a-45c0-a5e3-f03f95b3504c;Please validate and let me know if you see any issues. ,"25/Sep/24 6:32 AM;712020:6dd41a74-77fb-4616-821e-a6a0cf199b6b;Mention that as per the dev team confirmation, a particular node related to warrisk is automatically getting added to xml because of which form is not getting generated.
+
+Hence blocking the story","25/Sep/24 9:46 PM;712020:6dd41a74-77fb-4616-821e-a6a0cf199b6b;Policy number: BTAA000151
+
+Form Number: U-BTA-202-A CW (07/23)
+
+Even though BTA -1738, Covered is selected, *‘Accidental Death’* is not printing.
+
+!image-20240926-024310.png|width=770,height=563,alt=""image-20240926-024310.png""!
+
+Annotated form:
+
+!image-20240926-024337.png|width=1291,height=493,alt=""image-20240926-024337.png""!
+
+Attribute name in UI:
+
+!image-20240926-024418.png|width=1158,height=293,alt=""image-20240926-024418.png""!
+
+UI field values:
+
+!image-20240926-024548.png|width=451,height=204,alt=""image-20240926-024548.png""!",26/Sep/24 3:57 PM;712020:014524ec-082a-45c0-a5e3-f03f95b3504c;Please validate and let me know if you see any issues. ,"26/Sep/24 10:44 PM;712020:b315d41f-5571-416e-ad6c-bba88ea7186f;[~accountid:712020:014524ec-082a-45c0-a5e3-f03f95b3504c]   -Issue-4 is not fixed. Even though BTA-109 is given as ‘Yes’ the word ‘/Domestic Partner’ is not printing in the form. Hence re-opening the observation. 
+
+Their is yet another issue : 
+
+When both BTA-1738 and BTA-1739 as ‘Covered’ it is expected to print the word ‘Accidental Death or Accidental Dismemberment’.  The word ‘Accidental Death’ is not printing'. 
+
+I have attached a word document for your understand. Please let me know if anything is unclear.",,,,,,In Progress,27-09-2024 00:03
+Bind Policy - Search functionality not working in Policies & Document screen.,LARP-90882,7256321,Observation,In Development,LARP,LA&H Portal & Retail Platform,software,Ramesh Gopal,6283bc8bca7d7f006900a3c5,Updated 4/8/2022,,High,,Sabarinath Mohan,712020:ee660d2b-d23b-4eef-9421-a615fddc8d15,Shikha Kumari,712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c,Shikha Kumari,712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c,19-09-2024 09:20,26-09-2024 23:50,26-09-2024 23:49,,,,0,"Search functionality not working in Policies & Document screen. Attached the word file with all UI details.
+
+!image-20240919-142240.png|width=1591,height=781,alt=""image-20240919-142240.png""!",,Chandra Kumar,Shikha Kumari,,,63525b0176b91b62562ca2d3,712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c,,,,,,,,,,,LARP-84866,LARP-85832,,,,,,,,,,19/Sep/24 9:23 AM;712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c;19-09-2024 Evidence.docx;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1059439,19/Sep/24 9:23 AM;712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c;image-20240919-142240.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1059438,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Application Delivery,Core Platforms Modernization,,,,,,,,,,,,,,,,,,,,,,,,,SAP,,,,,,,,,,,,,,,,Foundations,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|hzxju6:i,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,,,,,,,,,,,,,,,,,,,,,,,02. Significant,,,,,,,BTA II - Sprint 12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BTA 2,,,,SIT,,,,,,,,,,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,50:15.4,,,FALSE,,,"23/Sep/24 7:13 AM;712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c;[~accountid:63525b01fe5ff3752358ed97], can you please look into it or assign this observation to Foundation team ",26/Sep/24 11:50 PM;63525b0176b91b62562ca2d3;[~accountid:712020:ee660d2b-d23b-4eef-9421-a615fddc8d15] - pls review this,,,,,,,,,In Progress,26-09-2024 23:50
+Policy Details Json - Minimum Information  - Unable to see the JSON 3 in UDM.,LARP-90866,7256213,Observation,In Development,LARP,LA&H Portal & Retail Platform,software,Ramesh Gopal,6283bc8bca7d7f006900a3c5,Updated 4/8/2022,,High,QA - Dev triage needed,PAVANI GORISIPUDI,712020:50582adf-444a-444e-9d4d-cd361a1c11a8,Shikha Kumari,712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c,Shikha Kumari,712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c,19-09-2024 08:00,23-09-2024 07:25,27-09-2024 00:10,,,,0,"As per user story I should see 3 JSON file in the database, but 'Completed' JSON is not reflecting in UDM.
+
+Retested with few Submission ID which is created today but still same issue coming.
+
+!image-20240919-130110.png|width=1251,height=365,alt=""image-20240919-130110.png""!",,PAVANI GORISIPUDI,Shikha Kumari,,,712020:50582adf-444a-444e-9d4d-cd361a1c11a8,712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c,,,,,,,,,,,LARP-89090,,,,,,,,,,,19/Sep/24 8:02 AM;712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c;image-20240919-130110.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1059374,20/Sep/24 11:09 AM;712020:50582adf-444a-444e-9d4d-cd361a1c11a8;image-20240920-160945.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1060412,23/Sep/24 6:57 AM;712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c;image-20240923-115708.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1061304,23/Sep/24 6:57 AM;712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c;image-20240923-115718.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1061305,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Application Delivery,Core Platforms Modernization,,,,,,,,,,,,,,,,,,,,,,,,,SAP,,,,,,,,,,,,,,,,Downstream,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|hyyxnr:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,,,,,,,,,,,,,,,,,,,,,,,02. Significant,,,,,,,BTA II - Sprint 12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BTA 2,,,,SIT,,,,,,,,,,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,09:51.5,,,FALSE,,,"20/Sep/24 11:09 AM;712020:50582adf-444a-444e-9d4d-cd361a1c11a8;
+
+!image-20240920-160945.png|width=874,height=260,alt=""image-20240920-160945.png""!","23/Sep/24 6:57 AM;712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c;Fields are not getting mapped to JSON from application. Hence reopening.
+
+!image-20240923-115718.png|width=451,height=169,alt=""image-20240923-115718.png""!
+
+!image-20240923-115708.png|width=1591,height=743,alt=""image-20240923-115708.png""!",,,,,,,,,In Progress,23-09-2024 07:25
+Hazard Selection Pop-up: Edit/View Icons - GA - H3- Functional Issue,LARP-90678,7254309,Observation,In Development,LARP,LA&H Portal & Retail Platform,software,Ramesh Gopal,6283bc8bca7d7f006900a3c5,Updated 4/8/2022,,High,,Sudheer Thulluri,712020:a623e872-f660-4700-b442-59c3fca10727,Shikha Kumari,712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c,Shikha Kumari,712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c,18-09-2024 07:04,24-09-2024 08:22,27-09-2024 00:10,,,,0,"Issue 1: Save button is enabled without selecting any checkbox.
+
+!image-20240918-120433.png|width=1586,height=675,alt=""image-20240918-120433.png""!
+
+!image-20240918-120611.png|width=1587,height=725,alt=""image-20240918-120611.png""!
+
+Issue 2: As per user story *“The content will be same for both the icons, the only difference is in the buttons and the content in ‘view’ icons will always be in read-only mode.“* but for Edit Icon also content is read-only mode only it should be editable.
+
+!image-20240918-121006.png|width=1595,height=780,alt=""image-20240918-121006.png""!
+
+Issue 3: content is not matching with user story description.
+
+!image-20240918-123445.png|width=1541,height=707,alt=""image-20240918-123445.png""!
+
+!image-20240918-123528.png|width=1175,height=388,alt=""image-20240918-123528.png""!
+
+Issue 4: As per user story *“The grey textbox will not have the label as ‘Definition’ for ‘Hazard Exclusion’ and ‘Hazard Limitation’. The label name will only be shown for ‘Hazard Definition’.“* but the label is not showing for 'Hazard Definition' as well.
+
+!image-20240918-124052.png|width=1591,height=637,alt=""image-20240918-124052.png""!",,Sakshi Saxena,Shikha Kumari,Sudheer Thulluri,,712020:7ff9425f-a4e2-4970-b874-f4ce8b02b186,712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c,712020:a623e872-f660-4700-b442-59c3fca10727,,,,,,,,,,LARP-85863,,,,,,,,,,,18/Sep/24 7:06 AM;712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c;image-20240918-120433.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1058595,18/Sep/24 7:06 AM;712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c;image-20240918-120611.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1058594,18/Sep/24 7:12 AM;712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c;image-20240918-121006.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1058603,18/Sep/24 7:35 AM;712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c;image-20240918-123445.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1058628,18/Sep/24 7:35 AM;712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c;image-20240918-123528.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1058629,18/Sep/24 7:42 AM;712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c;image-20240918-124052.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1058635,20/Sep/24 10:33 AM;712020:a623e872-f660-4700-b442-59c3fca10727;image-20240920-143408.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1060391,20/Sep/24 10:33 AM;712020:a623e872-f660-4700-b442-59c3fca10727;image-20240920-153228.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1060390,24/Sep/24 7:58 AM;712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c;image-20240924-125407.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1062199,24/Sep/24 7:58 AM;712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c;image-20240924-125654.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1062200,24/Sep/24 7:58 AM;712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c;image-20240924-125800.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1062198,,,,,,,,,,,,,,,,,,,,,,Application Delivery,Core Platforms Modernization,,,,,,,,,,,,,,,,,,,,,,,,,SAP,,,,,,,,,,,,,,,,UI ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|hyyxof:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,,,,,,,,,,,,,,,,,,,,,,,02. Significant,,,,,,,BTA II - Sprint 12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BTA 2,,,,SIT,,,,,,,,,,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,33:10.3,,,FALSE,,,"20/Sep/24 10:33 AM;712020:a623e872-f660-4700-b442-59c3fca10727;hi team the below are the screen shots 
+
+step1:
+
+
+
+!image-20240920-143408.png|width=1162,height=592,alt=""image-20240920-143408.png""!
+
+Step3:
+
+!image-20240920-153228.png|width=1162,height=415,alt=""image-20240920-153228.png""!
+
+
+
+
+
+step2 and step4 not valid as Sakshi comment ","24/Sep/24 7:52 AM;712020:7ff9425f-a4e2-4970-b874-f4ce8b02b186;Hi [~accountid:712020:a623e872-f660-4700-b442-59c3fca10727], [~accountid:712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c] - Issue 2 is not valid but Issue 4 is valid. ‘Definition’ word should come above the grey textbox for ‘Hazard Definition’. Please fix.","24/Sep/24 7:58 AM;712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c;Issue 1: Fixed
+
+!image-20240924-125407.png|width=1573,height=673,alt=""image-20240924-125407.png""!
+
+!image-20240924-125654.png|width=1593,height=648,alt=""image-20240924-125654.png""!
+
+Note: Save button should be there even if we didn’t select the exclusions, this Issue is still there and it will fix in this observation [https://jira-zurichna.atlassian.net/browse/LARP-91619|https://jira-zurichna.atlassian.net/browse/LARP-91619|smart-link] 
+
+Issue 3: Fixed
+
+!image-20240924-125800.png|width=1588,height=723,alt=""image-20240924-125800.png""!
+
+Issue 4: Not Fixed",,,,,,,,In Progress,24-09-2024 08:22
+Add Quote functionality - Functional Issues,LARP-89016,7237926,Observation,In Development,LARP,LA&H Portal & Retail Platform,software,Ramesh Gopal,6283bc8bca7d7f006900a3c5,Updated 4/8/2022,,High,Important,Bagam Sathvik,63e9cbe7333d0e2ec16e0f19,Shikha Kumari,712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c,Shikha Kumari,712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c,04-09-2024 01:57,09-09-2024 08:04,27-09-2024 00:10,,,,0,"Issue 1: While creating the 2nd quote using 'Add Quote' functionality. Unable to navigate from ‘Principal sum' tab to 'Hazard checklist’ tab, getting server exception error.
+
+!image-20240904-065914.png|width=451,height=220,alt=""image-20240904-065914.png""!
+
+!image-20240904-070047.png|width=451,height=189,alt=""image-20240904-070047.png""!
+
+Issue 2: Then I navigated to ‘Limits, exclusions & definitions' and ‘Additional information’ tab and updated the data but again got server exception error in ‘Premium information’ page.
+
+!image-20240904-070611.png|width=451,height=213,alt=""image-20240904-070611.png""!
+
+!image-20240904-070622.png|width=451,height=214,alt=""image-20240904-070622.png""!",,Shikha Kumari,,,,712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c,,,,,,,,,,,,LARP-85300,,,,,,,,,,,04/Sep/24 2:10 AM;712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c;85300 Evidence.docx;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1051315,04/Sep/24 2:07 AM;712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c;image-20240904-065914.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1051309,04/Sep/24 2:07 AM;712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c;image-20240904-070047.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1051312,04/Sep/24 2:07 AM;712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c;image-20240904-070611.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1051310,04/Sep/24 2:07 AM;712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c;image-20240904-070622.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1051311,,,,,,,,,,,,,,,,,,,,,,,,,,,,Application Delivery,Core Platforms Modernization,,,,,,,,,,,,,,,,,,,,,,,,,SAP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|hzxjpj:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,,,,,,,,,,,,,,,,,,,,,,,02. Significant,,,,,,,BTA II - Sprint 12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BTA 2,,,,SIT,,,,,,,,,,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,,,,,,,,,,,,In Progress,09-09-2024 03:54
+Forms_Dynamic values are not displaying for Accidental ingestion of a controlled substance benefit,LARP-88922,7237439,Observation,In Development,LARP,LA&H Portal & Retail Platform,software,Ramesh Gopal,6283bc8bca7d7f006900a3c5,Updated 4/8/2022,,High,,Avinash Diyya,63da2c8a0015d0b19c202fb6,Subramanyam Bhuvaneswari,712020:6dd41a74-77fb-4616-821e-a6a0cf199b6b,Reshma Gedela,712020:b315d41f-5571-416e-ad6c-bba88ea7186f,03-09-2024 08:03,27-09-2024 00:04,27-09-2024 00:06,,,,0,"Dynamics values are not displaying for below benefits:
+
+*CASE 1:* Accidental Ingestion of a Controlled Substance Benefit
+
+Annotated form:
+
+!image-20240831-100835.png|width=813,height=480,alt=""image-20240831-100835.png""!
+
+Actual form:
+
+!image-20240831-101601.png|width=892,height=552,alt=""image-20240831-101601.png""!
+
+Input:
+
+!image-20240831-101242.png|width=451,height=254,alt=""image-20240831-101242.png""!",,Bagam Sathvik,Brahmayya Nutalapati,Reshma Gedela,Subramanyam Bhuvaneswari,63e9cbe7333d0e2ec16e0f19,712020:014524ec-082a-45c0-a5e3-f03f95b3504c,712020:b315d41f-5571-416e-ad6c-bba88ea7186f,712020:6dd41a74-77fb-4616-821e-a6a0cf199b6b,,,,,,,,,,,LARP-88625,,,,,,,,,03/Sep/24 8:03 AM;712020:b315d41f-5571-416e-ad6c-bba88ea7186f;image-20240831-100835.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1050939,03/Sep/24 8:03 AM;712020:b315d41f-5571-416e-ad6c-bba88ea7186f;image-20240831-101242.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1050941,03/Sep/24 8:03 AM;712020:b315d41f-5571-416e-ad6c-bba88ea7186f;image-20240831-101601.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1050943,09/Sep/24 6:43 AM;63e9cbe7333d0e2ec16e0f19;image-20240909-114339.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1053726,20/Sep/24 7:09 AM;712020:6dd41a74-77fb-4616-821e-a6a0cf199b6b;image-20240920-120751.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1060145,25/Sep/24 8:06 PM;712020:6dd41a74-77fb-4616-821e-a6a0cf199b6b;image-20240926-010528.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1063624,25/Sep/24 8:06 PM;712020:6dd41a74-77fb-4616-821e-a6a0cf199b6b;image-20240926-010610.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1063623,,,,,,,,,,,,,,,,,,,,,,,,,,Application Delivery,Core Platforms Modernization,,,,,,,,,,,,,,,,,,,,,,,,,SAP,,,,,,,,,,,,,,,,Forms - Innoveo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|hzxjtz:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,,,,,,,,,,,,,,,,,,,,,,,02. Significant,,,,,,,BTA II - Sprint 12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BTA 2,,,,SIT,,,,,,,,,,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,43:59.0,,,FALSE,,,"09/Sep/24 6:43 AM;63e9cbe7333d0e2ec16e0f19;
+
+!image-20240909-114339.png|width=1122,height=514,alt=""image-20240909-114339.png""!
+
+Cab be validated after deployment.","20/Sep/24 7:09 AM;712020:6dd41a74-77fb-4616-821e-a6a0cf199b6b;We are getting the dynamic values as expected but “Days” word is repeating twice. Hence reopening this observation.
+
+Policy Number: BTAA000742
+
+!image-20240920-120751.png|width=873,height=581,alt=""image-20240920-120751.png""!",24/Sep/24 3:18 AM;712020:014524ec-082a-45c0-a5e3-f03f95b3504c;Please validate and let me know if you see any issues. ,"25/Sep/24 6:33 AM;712020:6dd41a74-77fb-4616-821e-a6a0cf199b6b;Mention that as per the dev team confirmation, a particular node related to warrisk is automatically getting added to xml because of which form is not getting generated.
+
+Hence blocking the story","25/Sep/24 8:06 PM;712020:6dd41a74-77fb-4616-821e-a6a0cf199b6b;The letter ‘d' in the word 'days’ is displaying in uppercase but in annotated form it is in lowercase, hence reopening the observation.
+
+!image-20240926-010528.png|width=684,height=539,alt=""image-20240926-010528.png""!
+
+Annotated form:
+
+!image-20240926-010610.png|width=709,height=485,alt=""image-20240926-010610.png""!
+
+Policy Number: BTAA000148
+
+Form Number: U-BTA-265-A CW (07/23)","26/Sep/24 9:17 AM;712020:014524ec-082a-45c0-a5e3-f03f95b3504c;@Bhuvaneswari - As per my discussion with the Dev team, this is what we are receiving from the rater, and the same in the payload (XML).
+
+I am assigning this observation to Avinash for further clarification, or we can reject this observation.
+
+FYI
+
+[~accountid:63da2c8a0015d0b19c202fb6] [~accountid:712020:6dd41a74-77fb-4616-821e-a6a0cf199b6b] [~accountid:63525b0176b91b62562ca2d3] [~accountid:712020:21143738-1822-429d-8263-67c503d22969] [~accountid:712020:e5232d8a-343e-46aa-a7c9-8159313462f6]",,,,,In Progress,27-09-2024 00:04
+Forms_Issues in the Occupational hepatitis accident benefit,LARP-88061,7215882,Observation,In Development,LARP,LA&H Portal & Retail Platform,software,Ramesh Gopal,6283bc8bca7d7f006900a3c5,Updated 4/8/2022,,High,,Avinash Diyya,63da2c8a0015d0b19c202fb6,Reshma Gedela,712020:b315d41f-5571-416e-ad6c-bba88ea7186f,Reshma Gedela,712020:b315d41f-5571-416e-ad6c-bba88ea7186f,28-08-2024 05:22,27-09-2024 00:07,27-09-2024 00:07,,,,0,"# Login to BTA II application
+# Select the benefit : Occupational hepatitis accident benefit
+# Enter all mandatory details in the UI
+# Navigate to the admin console and retrieve the policy number:  BTAA000180
+# Navigate to ZDW system and generate the form based on the policy number.
+
+Issue-1: Incurral period values not populating in the form
+
+!image-20240828-103933.png|width=742,height=305,alt=""image-20240828-103933.png""!
+
+!image-20240828-103849.png|width=468,height=109,alt=""image-20240828-103849.png""!
+
+!image-20240828-103838.png|width=468,height=292,alt=""image-20240828-103838.png""!
+
+Issue-2: Values from BTA-427 not populating
+
+!image-20240828-104844.png|width=802,height=424,alt=""image-20240828-104844.png""!
+
+!image-20240828-104750.png|width=468,height=130,alt=""image-20240828-104750.png""!
+
+!image-20240828-104709.png|width=468,height=22,alt=""image-20240828-104709.png""!
+
+!image-20240828-104808.png|width=468,height=292,alt=""image-20240828-104808.png""!
+
+!image-20240828-105527.png|width=802,height=388,alt=""image-20240828-105527.png""!
+
+
+
+!image-20240828-105938.png|width=468,height=292,alt=""image-20240828-105938.png""!
+
+
+
+Issue-3: Dynamic values not populating here
+
+!image-20240828-105636.png|width=1378,height=450,alt=""image-20240828-105636.png""!
+
+!image-20240828-105703.png|width=958,height=682,alt=""image-20240828-105703.png""!
+
+Issue-4: Dynamic values not populating
+
+!image-20240828-105808.png|width=50%,alt=""image-20240828-105808.png""!
+
+!image-20240828-105947.png|width=468,height=292,alt=""image-20240828-105947.png""!",,Avinash Diyya,Brahmayya Nutalapati,Reshma Gedela,Subramanyam Bhuvaneswari,63da2c8a0015d0b19c202fb6,712020:014524ec-082a-45c0-a5e3-f03f95b3504c,712020:b315d41f-5571-416e-ad6c-bba88ea7186f,712020:6dd41a74-77fb-4616-821e-a6a0cf199b6b,,,,,,,,,,,,,,,LARP-84863,LARP-90168,LARP-90176,LARP-90170,,28/Aug/24 5:54 AM;712020:b315d41f-5571-416e-ad6c-bba88ea7186f;image-20240828-103838.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1048064,28/Aug/24 5:54 AM;712020:b315d41f-5571-416e-ad6c-bba88ea7186f;image-20240828-103849.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1048060,28/Aug/24 5:54 AM;712020:b315d41f-5571-416e-ad6c-bba88ea7186f;image-20240828-103933.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1048063,28/Aug/24 5:54 AM;712020:b315d41f-5571-416e-ad6c-bba88ea7186f;image-20240828-104709.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1048061,28/Aug/24 5:54 AM;712020:b315d41f-5571-416e-ad6c-bba88ea7186f;image-20240828-104750.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1048059,28/Aug/24 5:54 AM;712020:b315d41f-5571-416e-ad6c-bba88ea7186f;image-20240828-104808.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1048062,28/Aug/24 5:54 AM;712020:b315d41f-5571-416e-ad6c-bba88ea7186f;image-20240828-104844.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1048058,28/Aug/24 6:01 AM;712020:b315d41f-5571-416e-ad6c-bba88ea7186f;image-20240828-105527.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1048085,28/Aug/24 6:01 AM;712020:b315d41f-5571-416e-ad6c-bba88ea7186f;image-20240828-105636.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1048086,28/Aug/24 6:01 AM;712020:b315d41f-5571-416e-ad6c-bba88ea7186f;image-20240828-105703.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1048084,28/Aug/24 6:01 AM;712020:b315d41f-5571-416e-ad6c-bba88ea7186f;image-20240828-105808.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1048083,28/Aug/24 6:01 AM;712020:b315d41f-5571-416e-ad6c-bba88ea7186f;image-20240828-105938.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1048082,28/Aug/24 6:01 AM;712020:b315d41f-5571-416e-ad6c-bba88ea7186f;image-20240828-105947.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1048087,03/Sep/24 1:52 PM;63da2c8a0015d0b19c202fb6;image-20240903-184847.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1051170,12/Sep/24 5:52 AM;712020:6dd41a74-77fb-4616-821e-a6a0cf199b6b;image-20240912-105221.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1055607,15/Sep/24 5:50 AM;712020:6dd41a74-77fb-4616-821e-a6a0cf199b6b;image-20240915-104751.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1056662,15/Sep/24 5:50 AM;712020:6dd41a74-77fb-4616-821e-a6a0cf199b6b;image-20240915-104855.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1056664,15/Sep/24 5:50 AM;712020:6dd41a74-77fb-4616-821e-a6a0cf199b6b;image-20240915-105039.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1056663,25/Sep/24 8:21 PM;712020:6dd41a74-77fb-4616-821e-a6a0cf199b6b;image-20240926-011636.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1063626,25/Sep/24 8:21 PM;712020:6dd41a74-77fb-4616-821e-a6a0cf199b6b;image-20240926-011817.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1063627,25/Sep/24 8:21 PM;712020:6dd41a74-77fb-4616-821e-a6a0cf199b6b;image-20240926-012008.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1063628,25/Sep/24 8:21 PM;712020:6dd41a74-77fb-4616-821e-a6a0cf199b6b;image-20240926-012053.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1063625,,,,,,,,,,,Application Delivery,Core Platforms Modernization,,,,,,,,,,,,,,,,,,,,,,,,,SAP,,,,,,,,,,,,,,,,Forms - Innoveo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|hzxjwn:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,,,,,,,,,,,,,,,,,,,,,,,2 - High,,,,,,,BTA II - Sprint 12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BTA 2,,,,SIT,,,,,,,,,,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,52:12.0,,,FALSE,,,"03/Sep/24 1:52 PM;63da2c8a0015d0b19c202fb6;Hi [~accountid:712020:b315d41f-5571-416e-ad6c-bba88ea7186f],
+
+Issue #1, #2 #3 are now fixed
+
+!image-20240903-184847.png|width=75%,alt=""image-20240903-184847.png""!
+
+But in fields with Incurral period values, we are having the word “Days” repeated. [~accountid:712020:7ff9425f-a4e2-4970-b874-f4ce8b02b186] could you confirm if that field would have the word “Days” in it or just the numerical value
+
+For Issue #4, we are not seeing the value populated even after sending the value for that specific tag. Assigning this to [~accountid:712020:014524ec-082a-45c0-a5e3-f03f95b3504c] for further analysis.
+
+FYI- Policy number can be seen in the screenshot attached","03/Sep/24 8:01 PM;712020:014524ec-082a-45c0-a5e3-f03f95b3504c;I verified the Issue#04 and deployed the change to QA, please validate and let me know if you see any issues. ","06/Sep/24 2:29 AM;712020:b315d41f-5571-416e-ad6c-bba88ea7186f;Form not generating for occupation hepatitis benefit. [https://jira-zurichna.atlassian.net/browse/LARP-84863|https://jira-zurichna.atlassian.net/browse/LARP-84863|smart-link] 
+
+Until this is unblocked, we cannot test this observation.","10/Sep/24 8:31 AM;712020:b315d41f-5571-416e-ad6c-bba88ea7186f;blocking the observation as currently forms are not generating.
+
+will be retested once the forms are generated
+
+cc: [~accountid:712020:38e09dd0-17b7-426c-8f11-81f8e4c23bd0] , [~accountid:712020:7980ccbc-5e13-4dae-acc3-b435a89c84d9] , [~accountid:712020:386db91a-1825-4526-bfd0-a05923f21f6d] , [~accountid:712020:38e09dd0-17b7-426c-8f11-81f8e4c23bd0]","12/Sep/24 5:52 AM;712020:6dd41a74-77fb-4616-821e-a6a0cf199b6b;Dynamic values are generating as per the annotated form. Hence closing this observation.
+
+!image-20240912-105221.png|width=852,height=607,alt=""image-20240912-105221.png""!","15/Sep/24 5:50 AM;712020:6dd41a74-77fb-4616-821e-a6a0cf199b6b;Extra word (Days) is printing along with dynamic values. Hence reopening this observation.
+
+Policy Number: BTAA000352
+
+!image-20240915-104855.png|width=765,height=550,alt=""image-20240915-104855.png""!
+
+!image-20240915-104751.png|width=1414,height=747,alt=""image-20240915-104751.png""!
+
+!image-20240915-105039.png|width=636,height=373,alt=""image-20240915-105039.png""!",24/Sep/24 3:16 AM;712020:014524ec-082a-45c0-a5e3-f03f95b3504c;Please validate and let me know if you see any issues. ,"25/Sep/24 6:34 AM;712020:6dd41a74-77fb-4616-821e-a6a0cf199b6b;Mention that as per the dev team confirmation, a particular node related to warrisk is automatically getting added to xml because of which form is not getting generated.
+
+Hence blocking the story","25/Sep/24 8:21 PM;712020:6dd41a74-77fb-4616-821e-a6a0cf199b6b;Policy Number: BTAA000148
+
+Form Number: U-BTA-222-A CW (07/23)
+
+*Issue 1:* The letter ‘d' in the word 'days’ is displaying in uppercase but in annotated form it is in lowercase.
+
+!image-20240926-011636.png|width=681,height=601,alt=""image-20240926-011636.png""!
+
+Annotated form:
+
+!image-20240926-011817.png|width=707,height=496,alt=""image-20240926-011817.png""!
+
+*Issue 2:* The word ‘days’ is displaying twice.
+
+!image-20240926-012008.png|width=694,height=592,alt=""image-20240926-012008.png""!
+
+Annotated form:
+
+!image-20240926-012053.png|width=730,height=539,alt=""image-20240926-012053.png""!
+
+Hence reopening this observation.","26/Sep/24 9:30 AM;712020:014524ec-082a-45c0-a5e3-f03f95b3504c;@Bhuvaneswari - As per my discussion with the Dev team, this is what we are receiving from the rater, and the same in the payload (XML).
+
+I am assigning this observation to Avinash for further clarification, or we can reject this observation.
+
+I removed static “days” in Documaker, it will be available in QA for some time today.
+
+FYI
+
+[~accountid:63da2c8a0015d0b19c202fb6] [~accountid:712020:6dd41a74-77fb-4616-821e-a6a0cf199b6b] [~accountid:63525b0176b91b62562ca2d3] [~accountid:712020:21143738-1822-429d-8263-67c503d22969] [~accountid:712020:e5232d8a-343e-46aa-a7c9-8159313462f6]",In Progress,27-09-2024 00:07
+E2E- Add Quote Functionality Issues.,LARP-88060,7215871,Observation,In Development,LARP,LA&H Portal & Retail Platform,software,Ramesh Gopal,6283bc8bca7d7f006900a3c5,Updated 4/8/2022,,High,Assigned to QA,Bagam Sathvik,63e9cbe7333d0e2ec16e0f19,Shivram Jagtap,712020:dde5144a-b255-41a8-a960-3f22c4a1b40f,Shivram Jagtap,712020:dde5144a-b255-41a8-a960-3f22c4a1b40f,28-08-2024 04:51,18-09-2024 10:52,27-09-2024 00:10,,,,0,"# Login To Innoveo application.
+# Enter the details and create a quote.
+# Navigate to Confirmation Screen.
+# Click on Add quote button and Verify the UI overlapping In the Account overview screen and group information screen.
+
+!image-20240828-094027.png|width=91.66666666666667%,alt=""image-20240828-094027.png""!
+
+# Complete the flow and Navigate to Confirmation Screen.
+# Verify if user is able to select both quotes for Underwriter Review Functionality.
+
+!image-20240828-094410.png|width=91.66666666666667%,alt=""image-20240828-094410.png""!
+
+!image-20240828-094453.png|width=91.66666666666667%,alt=""image-20240828-094453.png""!
+
+# Verify if For 2nd quote user is able to Create and download a proposal.
+
+!image-20240828-095104.png|width=91.66666666666667%,alt=""image-20240828-095104.png""!
+
+ 8. Premium Is Not Generating as per updated values ( Added new class and benefit) - still showing same premium.
+
+# Getting server Exception Error on Clicking Next Button In Principle sum tab of newly added quote.
+# Getting server Exception Error on Selecting quote for Underwriter review when we have multiple quotes ( 3 or more )",,Bagam Sathvik,Jaya Pallemalle,Shivram Jagtap,,63e9cbe7333d0e2ec16e0f19,62a028969b728c006a93d61d,712020:dde5144a-b255-41a8-a960-3f22c4a1b40f,,,,,,,,,,,,,LARP-87514,LARP-86430,LARP-82829,,,,,,28/Aug/24 8:36 AM;712020:dde5144a-b255-41a8-a960-3f22c4a1b40f;TC-MT.docx;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1048258,28/Aug/24 4:51 AM;712020:dde5144a-b255-41a8-a960-3f22c4a1b40f;image-20240828-094027.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1047999,28/Aug/24 4:51 AM;712020:dde5144a-b255-41a8-a960-3f22c4a1b40f;image-20240828-094410.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1047996,28/Aug/24 4:51 AM;712020:dde5144a-b255-41a8-a960-3f22c4a1b40f;image-20240828-094453.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1047998,28/Aug/24 4:51 AM;712020:dde5144a-b255-41a8-a960-3f22c4a1b40f;image-20240828-095104.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1047997,,,,,,,,,,,,,,,,,,,,,,,,,,,,Application Delivery,Core Platforms Modernization,,,,,,,,,,,,,,,,,,,,,,,,,SAP,,,,,,,,,,,,,,,,UI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|hzu43j:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,,,,,,,,,,,,,,,,,,,,,,,01. Critical,,,,,,,BTA II - Sprint 12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BTA 2,,,,,,,,,,,,,,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,39:14.7,,,FALSE,,,30/Aug/24 6:39 AM;62a028969b728c006a93d61d;[~accountid:63e9cbe7333d0e2ec16e0f19]  - please provide an update on this.,30/Aug/24 7:39 AM;63e9cbe7333d0e2ec16e0f19;[~accountid:62a028969b728c006a93d61d] We are still working on this. We will give it to you next week by Tuesday. ,,,,,,,,,In Progress,30-08-2024 06:39
+Add Quote - Functionality - Functional Issues.,LARP-83522,7178918,Observation,In Development,LARP,LA&H Portal & Retail Platform,software,Ramesh Gopal,6283bc8bca7d7f006900a3c5,Updated 4/8/2022,,High,,Sathvik Bagam,712020:b13ad3d3-edbe-4e82-b2f1-aac52e4124e1,Shivram Jagtap,712020:dde5144a-b255-41a8-a960-3f22c4a1b40f,Shivram Jagtap,712020:dde5144a-b255-41a8-a960-3f22c4a1b40f,26-07-2024 09:17,26-09-2024 06:07,27-09-2024 00:10,,,14-08-2024 00:00,0,"# Login to the innoveo application.
+# Click on “View and Create Quote”.
+# Enter all the Details In All Sections.
+# Navigate to BTA Overview screen and click on craete quote button.
+# Enter the details in premium Overview And Documents Tab screen And navigate to Confirmation screen.
+# Click on Add quote Button.
+# Verify if System is generating the Premium for newly added quote with Updated Parameter Values.
+# Verify the Look and Feel Of the Add quote Button When multiple quotes added.
+
+!image-20240726-135739.png|width=83.33333333333334%,alt=""image-20240726-135739.png""!
+
+# Verify if the dropdown of Class 1 is expanding and Look and feel.
+
+!image-20240726-141912.png|width=75%,alt=""image-20240726-141912.png""!
+
+# Verify if System showing the Overview Of newly Added Class In Quote Overview Screen.
+
+!image-20240726-141946.png|width=75%,alt=""image-20240726-141946.png""!",,Shakera Nazneen,Shivram Jagtap,,,712020:38e09dd0-17b7-426c-8f11-81f8e4c23bd0,712020:dde5144a-b255-41a8-a960-3f22c4a1b40f,,,,,,,,,,,LARP-81205,,,,,,,,,,,26/Jul/24 9:17 AM;712020:dde5144a-b255-41a8-a960-3f22c4a1b40f;image-20240726-135739.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1034144,26/Jul/24 9:19 AM;712020:dde5144a-b255-41a8-a960-3f22c4a1b40f;image-20240726-141912.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1034149,26/Jul/24 9:19 AM;712020:dde5144a-b255-41a8-a960-3f22c4a1b40f;image-20240726-141946.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1034150,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Application Delivery,Core Platforms Modernization,,,,,,,,,,,,,,,,,,,,,,,,,SAP,,,,,,,,,,,,,,,,UI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|hzxjq7:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,,,,,,,,,,,,,,,,,,,,,,,3 - Medium,,,,,,,BTA II - Sprint 12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BTA 2,,,,,,,,,,,,,,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,,,,,,,,,,,,In Progress,29-07-2024 04:41
+Add Quote - Functionality not working with UI mismatch.,LARP-83471,7178735,Observation,In Development,LARP,LA&H Portal & Retail Platform,software,Ramesh Gopal,6283bc8bca7d7f006900a3c5,Updated 4/8/2022,,High,,Sathvik Bagam,712020:b13ad3d3-edbe-4e82-b2f1-aac52e4124e1,Shikha Kumari,712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c,Shikha Kumari,712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c,26-07-2024 06:01,09-09-2024 08:04,27-09-2024 00:10,,,14-08-2024 00:00,0,"Issue: unable to see the 'Notes' section , after creating 2nd quote with few updated value.
+
+!image-20240726-110724.png|width=451,height=216,alt=""image-20240726-110724.png""!
+
+!image-20240726-110337.png|width=1133,height=773,alt=""image-20240726-110337.png""!
+
+Issue 2:  “+Add Quote” link placement is not correct.
+
+Issue 3:  Quote ID is not following a sequence.
+
+Issue 4: same Submission ID for the Base Quote is not populated for the new quote.
+
+!image-20240726-110129.png|width=1590,height=776,alt=""image-20240726-110129.png""!",,Shakera Nazneen,Shikha Kumari,VINAYAK RUDRA KANDREGULA,,712020:38e09dd0-17b7-426c-8f11-81f8e4c23bd0,712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c,63525b01fe5ff3752358ed97,,,,,,,,,,LARP-80113,,,,,,,,,,,26/Jul/24 6:01 AM;712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c;image-20240726-110129.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1033888,26/Jul/24 6:04 AM;712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c;image-20240726-110337.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1033893,26/Jul/24 6:11 AM;712020:66e0e5ae-05d7-407d-8b5b-cf869c82af3c;image-20240726-110724.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1033897,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Application Delivery,Core Platforms Modernization,,,,,,,,,,,,,,,,,,,,,,,,,SAP,,,,,,,,,,,,,,,,UI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|hzxjqf:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,,,,,,,,,,,,,,,,,,,,,,,05. Cosmetic,,,,,,,BTA II - Sprint 12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BTA 2,,,,SIT,,,,,,,,,,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,51:04.0,,,FALSE,,,28/Jul/24 6:51 PM;63525b01fe5ff3752358ed97;Quote ID is in sequence in above screenshot. It will not be immediate sequence if someone else creates another quote in parallel.,,,,,,,,,,In Progress,29-07-2024 04:41
+E2E_Class Cloning and Navigation Issues ,LARP-79596,7125345,Observation,In Development,LARP,LA&H Portal & Retail Platform,software,Ramesh Gopal,6283bc8bca7d7f006900a3c5,Updated 4/8/2022,,High,Assigned to QA,Komirishetti Kokila,712020:7462e3dd-72f8-4a80-8386-720f97e1bcd4,Roopavati vati,712020:386db91a-1825-4526-bfd0-a05923f21f6d,Roopavati vati,712020:386db91a-1825-4526-bfd0-a05923f21f6d,19-06-2024 04:48,09-09-2024 08:04,27-09-2024 00:10,,,15-08-2024 00:00,0,"Issue 1: Premium not calculated when the Class is cloned without Refresh, It is showing the Same Premium value. (We have to refresh all the time)
+
+Issue 2 : Clone Sequence Number is not numbering properly. Even after cloning Sequence number for class, it's not showing properly.
+
+issue 3.
+
+Class right arrow Still navigating towards right even though if there is no Classes
+
+→ Login to application
+
+→ Navigate to the Class Information screen.
+
+→ Clone classes till 4 to 5 Classes
+
+→ Select class 5 and click on the right arrow, class go to the right side even if there is no classes available.
+
+Issue 4
+
+→ Classes are not highlighting when selecting to the Specific classes It should get highlight 
+
+Issue 5
+
+For Class 1 left arrow should not be displayed when User in the Classes 1.
+
+
+
+Issue 6 : User not able to navigate to the right side of the class some time with right Arrow ",,Dhruv Bipin Kulkarni,Shakera Nazneen,,,712020:aaa4cc96-1e2f-412b-9d31-f375dec03d88,712020:38e09dd0-17b7-426c-8f11-81f8e4c23bd0,,,28800,28800,,0%,28800,28800,,,LARP-78844,,,,,,LARP-79890,,,,,19/Jun/24 5:13 AM;712020:386db91a-1825-4526-bfd0-a05923f21f6d;Issue 3 Class 1 Arrow.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1018768,19/Jun/24 5:16 AM;712020:386db91a-1825-4526-bfd0-a05923f21f6d;Issues 1.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1018771,19/Jun/24 5:23 AM;712020:386db91a-1825-4526-bfd0-a05923f21f6d;Right Arrow not Navigating Sometimes.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/1018773,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Application Delivery,Core Platforms Modernization,,,,,,,,,,,,,,,,,,,,,,,,,SAP,,,,,,,,,,,,,,,,Product,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|hzxjqn:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,,,,,,,,,,,,,,,,,,,,,,,02. Significant,,,,,,,BTA II - Sprint 12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BTA 2,,,,SIT,,,,,,,,,,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,52:00.8,,,FALSE,,,"25/Jul/24 1:52 AM;712020:aaa4cc96-1e2f-412b-9d31-f375dec03d88;This observation has technical dependency with Innoveo, We are working with Vinayak and Viktor wrt to this",,,,,,,,,,In Progress,19-06-2024 09:07
+"ENE_Existing_Defect : Class Number Re-sequencing Is Not Matching After Deleting The Classes On ""Class Information and principle sum"" Landing Page.",LARP-73490,7066841,Observation,In Development,LARP,LA&H Portal & Retail Platform,software,Ramesh Gopal,6283bc8bca7d7f006900a3c5,Updated 4/8/2022,,High,Assigned to QA - similar to LARP-79596,VINAYAK RUDRA KANDREGULA,63525b01fe5ff3752358ed97,Shivram Jagtap,712020:dde5144a-b255-41a8-a960-3f22c4a1b40f,Shivram Jagtap,712020:dde5144a-b255-41a8-a960-3f22c4a1b40f,30-04-2024 06:48,09-09-2024 08:04,27-09-2024 00:10,,,15-08-2024 00:00,0,"# Login to Innoveo Application as Internal UW user.
+# Navigate to ""BTA II Main Page"".
+# Access “Class information and principle sum” Section And Navigate to Landing Page.
+# Add All the 15 Classes.
+# Delete Any Class and verify the Class Number sequencing.
+
+Expected Result : Class Number Re-sequencing Should Work After Deleting The Classes On ""Class Information and principle sum"" Landing Page.
+
+Actual Result : Class Number Re-sequencing Is Not Working After Deleting The Classes.
+
+Re-sequencing is working on clicking refresh button.",,Dhruv Bipin Kulkarni,Sakshi Saxena,Shakera Nazneen,Shivram Jagtap,712020:aaa4cc96-1e2f-412b-9d31-f375dec03d88,712020:7ff9425f-a4e2-4970-b874-f4ce8b02b186,712020:38e09dd0-17b7-426c-8f11-81f8e4c23bd0,712020:dde5144a-b255-41a8-a960-3f22c4a1b40f,18000,18000,,0%,18000,18000,,,,,,,LARP-68635,,LARP-78835,LARP-79887,,,,30/Apr/24 6:50 AM;712020:dde5144a-b255-41a8-a960-3f22c4a1b40f;ClassNumberRe-SequencingNotWorking.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/998993,30/Apr/24 7:16 AM;712020:dde5144a-b255-41a8-a960-3f22c4a1b40f;ResequencingNotWorking.png;https://jira-zurichna.atlassian.net/rest/api/3/attachment/content/999002,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Application Delivery,Core Platforms Modernization,,,,,,,,,,,,,,,,,,,,,,,,,SAP,,,,,,,,,,,,,,,,Product,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1|hzxjr3:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,No,,,,,,,,,,,,,,,,,,,,,,,05. Cosmetic,,,,,,,BTA II - Sprint 12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BTA 2,,,,SIT,,,,,,,,,,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,20:20.0,,,TRUE,,,17/Jun/24 8:20 AM;712020:7ff9425f-a4e2-4970-b874-f4ce8b02b186;Moving to Sprint 8.,"25/Jul/24 1:52 AM;712020:aaa4cc96-1e2f-412b-9d31-f375dec03d88;This observation has technical dependency with Innoveo, We are working with Vinayak and Viktor wrt to this",,,,,,,,,In Progress,11-06-2024 06:08
